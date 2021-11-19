@@ -1,0 +1,12 @@
+cd lesson17 путь к вашей папке 
+git init
+git add .
+git commit -m "init"
+git remont add https://github.com/susannaibragimova/centone
+git branch -m origin main
+
+
+#добовление изменение в репу
+git add .
+git commit -m "add file"
+git push
